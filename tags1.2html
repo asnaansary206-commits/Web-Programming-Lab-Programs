@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>html tags</title>
+</head>
+<body>
+<h1>heading1</h1>
+<h2>heading2</h2>
+<h3>heading3</h3>
+<p>this is a paragraph with<strong>bold</strong><em>italic</em>,and <mark>highlighted</mark>text</P>
+<a href="www.google.com">google</a>
+<img src="fruit images.jpeg" alts="fruits">
+<hr>
+<h3>my shopping list</h3>
+<ul>
+<li>apples</li>
+<li>banana</li>
+</ul>
+<ol>
+<li>vegtables</li>
+<li>groceries</li>
+</ol>
+<h3>contact for</h3>
+<form>
+<label>name:</label>
+<input type="text" placeholder="enter your name">
+<br><hr>
+<button type="submit">submit</button>
+</form>
+</body
+</html>
+

@@ -1,0 +1,17 @@
+<html>
+<h2>
+<head>
+</head>
+<body>
+table page</h2>
+table border=<"1">
+<body>
+<th>
+<tr><th>name</th><th>mark</th></tr>
+<tr><th>asna</th><th>90</th></tr>
+<tr><th>ansary</th><th>85</th><tr>
+</table>
+<br>
+<a href="index.html">back to home</a>
+</body>
+</html>

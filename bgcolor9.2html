@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>bg color change</title></head>
+<body>
+<h2>click to change background color</h2>
+<button on click="change color()">change color</button>
+
+<script>
+let colors=["lightblue","lightgreen","lightpink","lavender","orange","cyan"];
+let i=0;
+function change color(){
+ document.body.styl e.backgroundcolor=colors[i];
+ i=(i+1)%colors.length;
+ }
+ </script>
+ </body>
+ </html>
+
+

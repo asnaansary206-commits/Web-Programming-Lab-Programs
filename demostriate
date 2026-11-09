@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+  <h1>tag 1</h1>
+  <h2>tag 2</h2>
+<p>list<a href."www.google.com">
+google.com</a></p>
+img src="flower.jpeg"a a="simple.img">
+<h3>my shopping list<h3>
+<ul>
+   <li>aplles</li>
+   <li>banana</li>
+</ul>
+<ol>
+<li>vegtable</li>
+<li>groceries</li>
+</ol>
+  <h3>contact form</h3>
+<form>
+<label>name:</label>
+<input type="text"places holder="enter your name">
+<br><chr>
+<button type="ssubmit">submit</button>
+</form>
+</body>
+</html>
+
+
+

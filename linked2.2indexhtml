@@ -1,0 +1,13 @@
+<html>
+<head>
+<h2>linking pages</h2>
+</head>
+<body>
+<a href="images.html">1.go image pages</a><p>
+<a href="table.html">2.go to table pages</a><br>
+<a href="button">3.go to button  of same page</a><br>
+<h3 id="button">this is button of page</h3>
+<p>reached here using internal link</p>
+</body>
+</html>
+

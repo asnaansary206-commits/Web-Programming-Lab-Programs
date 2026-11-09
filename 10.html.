@@ -1,0 +1,25 @@
+<html>
+<head>
+<title><b>i love html!!!<b></title>
+<head>
+<style>
+.h2{
+color:purple;
+}
+</style>
+<body>
+<center>
+<h1><i><b>html practice exercise</i></b></h1>
+<h2><u>james madison university</u></h2></center>
+<hr>
+<p>i love <i>html<i>because:
+<ol>
+<li>i learned it quickly </i>
+<li>i can make web pages using cod</li>
+<li>it is fun</li>
+<hr>
+<p>my professor's e-mail is <a href="claraketh@jmu.edu">,claraketh@jmu.edu</a></p>
+<h4><b>have a great day!</b></h4>
+</body>
+</html>
+
